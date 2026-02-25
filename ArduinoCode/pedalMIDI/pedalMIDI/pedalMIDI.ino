@@ -17,7 +17,7 @@ constexpr unsigned long DEBOUNCE_MS = 8;
 Pedal pedals[] = {
   {A0, 64, false, false, 0},  // Sustain
   {A1, 66, false, false, 0},  // Sostenuto
-  {A2, 68, false, false, 0},  // Harmonic (assigned in PianoTeq)
+  {A2, 69, false, false, 0},  // Harmonic (assigned in PianoTeq)
   {A3, 67, false, false, 0},  // Una Corda / Soft
 };
 
